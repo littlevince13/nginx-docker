@@ -1,0 +1,2 @@
+2020/05/31 10:17:03 [error] 6#6: *2 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.0.115, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.117:8003", referrer: "http://192.168.0.117:8003/"
+2020/05/31 10:36:04 [error] 6#6: *3 open() "/var/www/web04/favicon.ico" failed (2: No such file or directory), client: 192.168.0.115, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.117:8004", referrer: "http://192.168.0.117:8004/"
